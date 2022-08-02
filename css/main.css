@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ff0000;
+}
+
+.container {
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.youser-name{
+  background-color: #000;
+  color: #fff;
+}
+
+.youser-money {
+  background-color: #000;
+  color: #fff;
+}
